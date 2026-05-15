@@ -75,6 +75,10 @@
         NotebookLM
       </td>
       <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50"/><br>
+        Npm
+      </td>
+      <td align="center">
         <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50"/><br>
         GitHub
       </td>
