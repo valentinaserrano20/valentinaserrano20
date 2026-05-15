@@ -54,9 +54,10 @@
 <td valign="top">
 
 <table style="background-color: black; color: white; border-radius: 15px;">
+  
   <thead>
     <tr>
-      <th colspan="4">TOOLS</th>
+      <th colspan="6">TOOLS</th>
     </tr>
   </thead>
 
@@ -76,16 +77,19 @@
       </td>
       <td align="center">
         <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50"/><br>
-        Npm
+        NPM
       </td>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50"/><br>
-        GitHub
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50"/><br>
+        Git
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width="50"/><br>
+        Figma
       </td>
     </tr>
   </tbody>
 </table>
-</td>
 
 <td width="20"></td>
 
