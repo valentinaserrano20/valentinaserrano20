@@ -1,4 +1,4 @@
-## <img src="[https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px](https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%)" /> Hello!
+## <img alt="image 1.png" data-hpc="true" src="https://github.com/valentinaserrano20/valentinaserrano20/blob/main/image%201.png?raw=true" style="max-width: 100%;"> Hello!
 
 <!--
 
