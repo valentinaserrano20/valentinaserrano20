@@ -1,4 +1,10 @@
-## <img alt="image 1.png" data-hpc="true" src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/c7479440aa4bb0d121e480d164f05fcc2a5948c6/banner.svg" style="width: 100%; height="100px""> 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/c7479440aa4bb0d121e480d164f05fcc2a5948c6/banner.svg"
+    alt="Banner"
+    width="100%"
+  />
+</p> 
 
 
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
