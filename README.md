@@ -1,4 +1,4 @@
-## <img alt="image 1.png" data-hpc="true" src="https://github.com/valentinaserrano20/valentinaserrano20/blob/main/image%201.png?raw=true" style="max-width: 100%;"> 
+## <img alt="image 1.png" data-hpc="true" src="https://github.com/valentinaserrano20/valentinaserrano20/blob/main/image%201.png?raw=true" style="width: 100%;"> 
 
 
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
