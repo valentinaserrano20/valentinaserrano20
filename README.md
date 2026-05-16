@@ -43,4 +43,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" width="50" height="50" alt="Red Hat"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" height="50" alt="Linux"/>
 
+<p><strong>GIT STATS</strong></p>
+
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 </div>
