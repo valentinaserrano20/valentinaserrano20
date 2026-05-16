@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/c7479440aa4bb0d121e480d164f05fcc2a5948c6/banner.svg"
+    src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/19f4802afe28cfb7d09c1e2953a20b11d5f45b33/banner.svg"
     alt="Banner"
     width="100%"
   />
