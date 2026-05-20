@@ -25,7 +25,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Frontend-Developer-A11B86?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/UI%20%2F%20UX-Enthusiast-5584AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-Design-5584AC?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Always-Learning-A11B86?style=for-the-badge"/>
 
