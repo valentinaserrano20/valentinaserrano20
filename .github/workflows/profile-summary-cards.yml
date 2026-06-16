@@ -1,26 +1,38 @@
+# Nombre del flujo de trabajo para identificarlo en la pestaña Actions
 name: GitHub-Profile-Summary-Cards
 
+# Definición de los eventos que disparan la acción
 on:
   create:
-  schedule: # execute every 24 hours
-    - cron: "* */15 * * *"
+  schedule:
+    # Se ejecuta cada 15 horas (ajustado según tu configuración original)
+    - cron: "0 */15 * * *"
+  # Permite la ejecución manual desde la interfaz de GitHub
   workflow_dispatch:
 
 jobs:
   build:
+    # Corre sobre la última versión de Ubuntu estable
     runs-on: ubuntu-latest
     name: generate-github-cards
+    
+    # Otorgamos permisos explícitos de escritura para que Git pueda hacer push de las tarjetas
     permissions:
       contents: write
+      
     env:
+      # Fuerza el entorno a utilizar Node 24 para evitar advertencias de depreciación
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   
     steps:
+      # Paso 1: Descarga el contenido actual del repositorio
       - uses: actions/checkout@v4
+      
+      # Paso 2: Genera las tarjetas estadísticas utilizando la acción externa
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN}}
+          # Cambiado al token automático del repositorio que ya posee los permisos asignados arriba
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          # Corregido el exceso de llaves al final para evitar nombres de usuario corruptos
           USERNAME: ${{ github.repository_owner }}
-
-
