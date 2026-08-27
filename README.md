@@ -13,10 +13,8 @@
 <br/>
 
 <p>
-  Soy Valentina, una desarrolladora frontend colombiana con pasión por construir<br/>
-  interfaces web bonitas, intuitivas y funcionales.<br/><br/>
-  Creo que nunca se deja de aprender — cada proyecto y cada línea de código me hace mejor.<br/>
-  <strong>El aprendizaje continuo es mi forma de trabajar.</strong>
+  Creo que nunca se deja de aprender — cada proyecto y cada línea de código me hace mejorar.<br/>
+  <strong>El aprendizaje continuo es lo mas importante.</strong>
 </p>
 
 <br/>
