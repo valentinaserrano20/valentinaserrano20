@@ -91,9 +91,6 @@
 <p><strong>GIT STATS</strong></p>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/main/profile-summary-card-output/jolly/0-profile-details.svg"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/valentinaserrano20/valentinaserrano20/main/profile-summary-card-output/jolly/2-most-commit-language.svg"/>
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
