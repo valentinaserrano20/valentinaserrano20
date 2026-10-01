@@ -13,7 +13,7 @@
 <br/>
 
 <p>
-  Creo que nunca se deja de aprender — cada proyecto y cada línea de código me hace mejorar.<br/>
+  Creo que nunca se deja de aprender<br/>
   <strong>El aprendizaje continuo es lo mas importante.</strong>
 </p>
 
